@@ -1,16 +1,6 @@
-[![Build Status](https://secure.travis-ci.org/avh4/deft.png?branch=master)](http://travis-ci.org/avh4/deft)
+# deft-swt
 
-# deft
-
-An experimental API design for functional GUI development.
-
-## Example apps
-
-    lein run -m deft.examples.static-color
-    lein run -m deft.examples.static-button
-    lein run -m deft.examples.increment-button
-    lein run -m deft.examples.custom-view
-    lein run -m deft.examples.button-grid
+SWT backend for [deft](http://github.com/avh4/deft).
 
 ## License
 

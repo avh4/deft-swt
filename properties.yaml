@@ -1,4 +1,4 @@
 ---
-project : deft
-description : An experimental API design for functional GUI development.
+project : deft-swt
+description : SWT implementation for deft
 github_user : avh4

@@ -1,4 +1,4 @@
-(ns deft.swt
+(ns deft-swt.core
   (:use [deft core]))
 
 (def new-widget (fn
